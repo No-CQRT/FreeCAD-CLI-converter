@@ -5,6 +5,8 @@ This script is provided "AS IS"; note: i'm really n00b at scripting.
 
 Just download the script in a directory of your convenience, and chmod as executable.
 
+**tested on linux only, at moment**
+
 Need [FreeCAD](http://wwww.freecad.org) , used in cmdline mode, to work.
 
 **usage: ./FreeCAD_converter.sh inputfile outputfile destinationpath**
